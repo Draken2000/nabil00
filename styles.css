@@ -1,0 +1,56 @@
+.assign-1-shape-1{
+    background-color: #ddd;
+    font-size: 30px
+    margin: auto auto 0px auto
+    text-align: center;
+    padding: 50px;
+}
+.assign-1-shape-2{
+    background-color: #ddd;
+    font-size: 30px
+    margin: 0px auto 0px auto
+    text-align: center;
+    padding: 50px;
+}
+.assign-1-shape-3{
+    background-color: #ddd;
+    font-size: 30px
+    margin: auto auto 0px auto
+    text-align: center;
+    padding: 50px;
+}
+.container{
+        font-size:larger;
+        display: inline-block;
+        display: flex;
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        gap: 60px;
+        text-align: center; 
+        padding: 200px;
+        height:200px;
+        width: 1000px;
+        margin: 0px auto 0px auto;
+        
+}
+.assign-1-shape-1{
+    border-width: 15px;
+    border-style: solid;
+    border-color: red;
+    outline: 15px solid black
+    
+}
+.assign-1-shape-2{
+    border-width: 15px;
+    border-style: solid;
+    border-color: blue green blue green;
+    outline: 15px solid black
+}
+.assign-1-shape-3{
+    border-width: 15px;
+    border-style:dashed;
+    border-color: red green blue yellow;
+    outline: 15px solid black
+
+}
+
